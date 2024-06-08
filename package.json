@@ -1,0 +1,16 @@
+{
+  "name": "audio-upload-notation",
+  "version": "1.0.0",
+  "description": "A web application to upload audio files, generate solfa notation, and detect song key.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
